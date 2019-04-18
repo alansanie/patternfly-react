@@ -6,6 +6,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/patternfly/patternfly-react.git"
+        "url": "https://github.com/patternfly/patternfly-react.git"
   },
   "engines": {
     "node": ">=8.9.0",
