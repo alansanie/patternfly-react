@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/patternfly/patternfly-react#readme",
   "devDependencies": {
-    "@storybook/addon-actions": "^v3.4.11",
+    "@storybook/addon-actions": "^v3.4.10",
     "@storybook/addon-info": "^v3.4.11",
     "@storybook/addon-knobs": "^v3.4.11",
     "@storybook/addon-links": "^v3.4.11",
